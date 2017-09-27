@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Apr 12 23:05:20 BST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015b-6433-112b-00000de38898 
+on database directory /media/bigpc/maintransent/college/Semester 2/java programming/project/Assignment_OOP2_2017_Artiom_Sumigora/utils/dataBaseFiles/test with class loader sun.misc.Launcher$AppClassLoader@2f0e140b 
+Loaded from file:/media/bigpc/maintransent/college/Semester%202/java%20programming/project/Assignment_OOP2_2017_Artiom_Sumigora/utils/dataBaseFiles/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13
+user.dir=/media/bigpc/maintransent/college/Semester 2/java programming/project/Assignment_OOP2_2017_Artiom_Sumigora/utils/dataBaseFiles
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-72-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 12 23:15:37 BST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Apr 12 23:15:37 BST 2017:
+Shutting down instance a816c00e-015b-6433-112b-00000de38898 on database directory /media/bigpc/maintransent/college/Semester 2/java programming/project/Assignment_OOP2_2017_Artiom_Sumigora/utils/dataBaseFiles/test with class loader sun.misc.Launcher$AppClassLoader@2f0e140b 
+----------------------------------------------------------------
